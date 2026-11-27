@@ -1,0 +1,9 @@
+{
+  "model": "Linear Regression",
+  "target": "Base_Salary",
+  "mae": 7617.367637791654,
+  "r2": 0.8675680983990768,
+  "test_size": 0.2,
+  "random_state": 42,
+  "source": "Completed Employee_salaries_analysis notebook output"
+}
